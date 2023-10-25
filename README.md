@@ -44,7 +44,7 @@ There are two complementary nodes: `PNGCompressor`, which can turn rgb tensors i
 
     c = rup.PNGDecompressor(
 
-        # in the incoming message, where to find the jpeg data as a blob
+        # in the incoming message, where to find the png data as a blob
         input_key = "png",
 
         # in the outgoing message, where to place the rgb data as a tensor
