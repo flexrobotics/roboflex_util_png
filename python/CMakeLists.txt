@@ -1,7 +1,7 @@
 # python/CMakeLists.txt
-cmake_minimum_required(VERSION 3.25)
+cmake_minimum_required(VERSION 3.24)
 
-project(roboflex_util_png_ext VERSION 0.1.1 DESCRIPTION "roboflex util png python wrapping")
+project(roboflex_util_png_ext VERSION 0.1.2 DESCRIPTION "roboflex util png python wrapping")
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
