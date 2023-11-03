@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.24)
+cmake_minimum_required(VERSION 3.18)
 
-project(roboflex_util_png VERSION 0.1.2 DESCRIPTION "roboflex util png")
+project(roboflex_util_png VERSION 0.1.3 DESCRIPTION "roboflex util png")
 
 # specify the C++ standard
 set(CMAKE_CXX_STANDARD 20)
